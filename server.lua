@@ -1,6 +1,6 @@
 
-FaxCurPT = false
-curVersion = "3.4"
+MikesCurPT = false
+curVersion = "1.000"
 
 function GetDiscordPermissionSet(src)
 	if usingDiscordPerms then
